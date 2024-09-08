@@ -1,7 +1,15 @@
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1 style="margin: 0;">Hi, I'm Scott Smith</h1>
+  <nav>
+    <a href="#">Home</a> | 
+    <a href="#writing">Writing</a> | 
+    <a href="#what-i-spend-my-time-on">What I Spend My Time On</a> | 
+    <a href="#what-im-reading">What I'm Reading</a> | 
+    <a href="#investments">Investments</a> | 
+    <a href="#contact">Contact</a>
+  </nav>
+</div>
 ---
-## [Home](#) | [Writing](#writing) | [What I'm Reading](#what-im-reading) | [Investments](#investments) | [Contact](#contact)
----
-# Hi, I'm Scott Smith
 
 ## Writing
 - [Link 1](#)
